@@ -1,0 +1,4 @@
+[submodule "iio-sensor-proxy"]
+	path = iio-sensor-proxy
+	url = https://gitlab.freedesktop.org/hadess/iio-sensor-proxy/
+	branch = main
